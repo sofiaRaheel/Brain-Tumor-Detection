@@ -87,9 +87,9 @@ The dataset comprises **5,862 MRI scans**, preprocessed to **224×224 resolution
 
 ---
 
-## 🛠️ Technical Implementation
+## Technical Implementation
 
-### 🔄 Data Pipeline
+###  Data Pipeline
 
 - Random resized crop (224×224 from 256×256)
 - Horizontal flip (50%), vertical flip (30%)
@@ -98,7 +98,7 @@ The dataset comprises **5,862 MRI scans**, preprocessed to **224×224 resolution
 - Gaussian blur (3×3)
 - Normalization using ImageNet stats
 
-### 🧪 Training Optimization
+### Training Optimization
 
 - **Loss Function**: Weighted cross-entropy (inverse class frequency)
 - **Learning Rate**: Cosine annealing
