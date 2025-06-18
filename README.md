@@ -29,7 +29,7 @@ The project integrates **Grad-CAM visualizations** for explainability, enabling 
   - Extensive data augmentation to simulate real-world imaging variability.
   - Cosine annealing and early stopping for stable convergence.
 
----
+
 
 ## Dataset Information
 
@@ -125,7 +125,7 @@ Grad-CAM visualizations:
 | **Precision**  | 0.91       | 0.96     |
 | **Recall**     | 0.90       | 0.96     |
 | **F1-Score**   | 0.90       | 0.96     |
-| **Train Time** | 2h 15m     | 1h 10m   |
+
 
 ---
 
